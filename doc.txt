@@ -1,0 +1,20 @@
+FRONTEND
+make sure to run in port 3000
+download nodejs,vscode and python(3.7.8 version is what I used)
+open p-frontend in vscode
+open terminal
+cd assignmnet-frontend
+run npm install and npm start commands
+
+BACKEND
+make sure to run in port 8000
+open p-back in vscode
+open terminal 
+pip install django
+pip install django-cors-headers
+pip install djangorestframework
+cd backend
+python manage.py runserver
+
+
+open "http://localhost:3000/" to run the program
